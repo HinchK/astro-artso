@@ -204,7 +204,7 @@ packages:
     resolution: {integrity: sha512-v4Esbchc7QcbDilDcZ80BrW29o7SoWnuX80dndH+rE92cpiRwdJw5w1bfI17mtmjlt3NjgFxyjVB93ycD9s66A==}
     dependencies:
       sitemap: 7.1.1
-      zod: 3.21.4
+      zod: 3.22.4
     dev: true
 
   /@astrojs/tailwind@3.1.0(astro@2.1.2)(tailwindcss@3.2.7):
@@ -1927,7 +1927,7 @@ packages:
       '@proload/plugin-tsm': 0.2.1(@proload/core@0.3.3)
       deepmerge: 4.3.0
       valid-filename: 4.0.0
-      zod: 3.21.4
+      zod: 3.22.4
     dev: true
 
   /astro@2.1.2(sass@1.59.2):
@@ -1993,7 +1993,7 @@ packages:
       vite: 4.1.4(sass@1.59.2)
       vitefu: 0.2.4(vite@4.1.4)
       yargs-parser: 21.1.1
-      zod: 3.21.4
+      zod: 3.22.4
     transitivePeerDependencies:
       - '@types/node'
       - less
@@ -6692,8 +6692,8 @@ packages:
     engines: {node: '>=12.20'}
     dev: false
 
-  /zod@3.21.4:
-    resolution: {integrity: sha512-m46AKbrzKVzOzs/DZgVnG5H55N1sv1M8qZU3A8RIKbs3mrACDNeIOeilDymVb2HdmP8uwshOCF4uJ8uM9rCqJw==}
+  /zod@3.22.4:
+    resolution: {integrity: sha512-iC+8Io04lddc+mVqQ9AZ7OQ2MrUKGN+oIQyq1vemgt46jwCwLfhq7/pwnBnNXXXZb8VTVLKwp9EDkx+ryxIWmg==}
 
   /zwitch@2.0.4:
     resolution: {integrity: sha512-bXE4cR/kVZhKZX/RjPEflHaKVhUVl85noU3v6b8apfQEc1x4A+zBxjZ4lN8LqGd6WZ3dl98pY4o717VFmoPp+A==}
